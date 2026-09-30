@@ -1,0 +1,6 @@
+{
+  "name": "SaveIQ – AI Savings Goal Tracker",
+  "description": "AI-powered personal finance management system to create savings goals, track financial progress, and receive intelligent recommendations and automated deadline alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
