@@ -3,6 +3,7 @@
 SaveIQ is an AI-powered personal finance management application designed to help users manage their savings goals, monitor financial progress, and make smarter saving decisions.
 
 The platform helps users set financial targets, track their savings journey, receive intelligent AI-based recommendations, and stay on track with automated deadline alerts.
+⭐⭐⭐Demo Video Link: https://drive.google.com/file/d/1n30qhcNhD-c0f3ZI-QVHb2dNTDd38qR6/view?usp=drivesdk 
 
 🚀 Key Features
 
