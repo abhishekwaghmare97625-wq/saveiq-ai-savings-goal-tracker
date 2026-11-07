@@ -7,6 +7,10 @@ The platform helps users set financial targets, track their savings journey, rec
 ⭐⭐⭐Demo Video Link: https://drive.google.com/file/d/1n30qhcNhD-c0f3ZI-QVHb2dNTDd38qR6/view?usp=drivesdk 
 
 Live link : https://saveiq-ai-savings-goal-tracker.ai.studio
+
+Documentation: https://github.com/abhishekwaghmare97625-wq/saveiq-ai-savings-goal-tracker/blob/main/SaveIQ_Project_Report_Abhishek_Waghmare.docx
+
+
 🚀 Key Features
 
 - 🎯 Savings Goal Management: Create and manage personal savings goals.
